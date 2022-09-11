@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(250,250,38);
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color:rgb(80,80,80);
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    background-color: rgb(20,30,40);
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    background-color: rgb(50,10,15);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: rgb(50,35,100;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    border-color: blue;
+    text-align: center;
+}
+.item{
+    color:brown
+}
